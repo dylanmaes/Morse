@@ -1,6 +1,6 @@
 #include <Morse.h>
 
-int ledPin = 13;
+int ledPin = 10;
  
 //define the morse code for the alphabet and numbers
 char* letters[] = {
@@ -44,7 +44,7 @@ char* numbers[] = {
       "---..",   // 8
       "----."    // 9
 };
- 
+
 int dotDelay = 200;
  
 void setup () {

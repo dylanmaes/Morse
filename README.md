@@ -1,4 +1,4 @@
-ready my.ino
+-ready my.ino
 #include <Morse.h>
 
 int ledPin = 13;
